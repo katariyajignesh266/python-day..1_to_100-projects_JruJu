@@ -7,3 +7,5 @@ total_pay = bill + (tip / 100 * bill)
 pay_each_person = total_pay / people
 print("Each person shold pay:" + str(round(pay_each_person, 2)))
 
+# Final = str(round(pay_each_person, 2))
+# print(f"Each person shold pay {Final}")
