@@ -56,3 +56,6 @@ while not game_over:
         print("****************************YOU WIN****************************")
         
     print(stages[lives])
+
+
+#commit chenge
